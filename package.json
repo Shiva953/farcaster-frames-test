@@ -1,0 +1,22 @@
+{
+  "name": "deribet-farcaster-frame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@farcaster/hub-nodejs": "^0.11.9",
+    "@farcaster/hub-web": "^0.8.6",
+    "@neynar/nodejs-sdk": "^1.18.0",
+    "@vercel/kv": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7",
+    "url": "^0.11.3"
+  }
+}
